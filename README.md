@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   :man_technologist: About Me :
-  I am a Junior Frontend Developer from. 
+  I am a Junior Frontend Developer. 
   
 - :computer: I am a university student majoring in applied computer science.
 
