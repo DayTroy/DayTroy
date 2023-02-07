@@ -11,7 +11,7 @@
   
 - :computer: I am a university student majoring in applied computer science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode.
 
 - :video_game: Playing computer games.
 
