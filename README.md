@@ -1,3 +1,5 @@
+![banner](https://github.com/DayTroy/DayTroy/assets/70051506/61fe8485-f2d7-40fd-9ef5-6478258b92eb)
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Rustam</h1>
