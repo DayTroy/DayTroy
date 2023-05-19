@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 💬 Ask me about **HTML, CSS, JS**
+
 - ⚡ Fun fact **I love computer games 🎮**
 
 <h3 align="left">Connect with me:</h3>
