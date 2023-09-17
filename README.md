@@ -3,7 +3,7 @@
 <img align="right" src="https://fastrp.ru/uploads/monthly_2022_07/kartinki-dlya-stima-1.thumb.gif.5dcb4f7729b4b49362e67bdc389733d5.gif" width="400"/>
 
 <h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate university student majoring in applied computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daytroy&label=Profile%20views&color=0e75b6&style=flat" alt="daytroy" /> </p>
 
