@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daytroy&label=Profile%20views&color=0e75b6&style=flat" alt="daytroy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daytroy" alt="daytroy" /></a> </p>
-
 - 🔭 I’m currently working on [QosylMe](https://qosyl.me/)
 
 - 🌱 I’m currently learning **React/Redux**
