@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React/Redux**
 
-- 👨‍💻 All of my projects are available at [https://rustam-sultonov.netlify.app/](https://rustam-sultonov.netlify.app/)
-
 - 💬 Ask me about **react, typescript**
 
 - ⚡ Fun fact **I love computer games 🎮**
