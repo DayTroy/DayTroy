@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> 
+    <img src="https://img.shields.io/badge/Figma-ff3932?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> 
