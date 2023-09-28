@@ -72,6 +72,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> 
   </a>
+  <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /> 
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daytroy&show_icons=true&locale=en&layout=compact" alt="daytroy" /></p>
