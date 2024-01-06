@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at <a target="_blank" href="https://www.ingos.ru/">Ingosstrakh</a>💙
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** 🅰️
 
 - 💬 Ask me about **react, redux, typescript**
 
@@ -74,6 +74,9 @@
   </a>
   <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /> 
+  </a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Angular-FF033E?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/> 
   </a>
 </p>
 
