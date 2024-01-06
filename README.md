@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daytroy&label=Profile%20views&color=0e75b6&style=flat" alt="daytroy" /> </p>
 
-- 🔭 I’m currently working on [QosylMe](https://qosyl.me/)
+- 🔭 I’m currently working at <a target="_blank" href="https://www.ingos.ru/">Ingosstrakh</a>💙
 
-- 🌱 I’m currently learning **React/Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **react, redux, typescript**
 
