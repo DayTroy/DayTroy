@@ -1,6 +1,6 @@
 ![banner (1)](https://github.com/DayTroy/DayTroy/assets/70051506/36f119bf-dfa4-43ae-9203-c323fb1c9ca3)
 
-<img align="right" src="https://fastrp.ru/uploads/monthly_2022_07/kartinki-dlya-stima-1.thumb.gif.5dcb4f7729b4b49362e67bdc389733d5.gif" width="400"/>
+<img align="right" src="https://pixelbox.ru/wp-content/uploads/2021/04/anim-avatar-discord-92.gif" width="400"/>
 
 <h1 align="center" href="">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate university student majoring in applied computer science</h3>
