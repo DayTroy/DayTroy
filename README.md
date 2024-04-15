@@ -2,7 +2,7 @@
 
 <img align="right" src="https://pixelbox.ru/wp-content/uploads/2021/04/anim-avatar-discord-92.gif" width="400"/>
 
-<h1 align="center" href="">Hi 👋, I'm Rustam</h1>
+<h3 align="center" href="">Hi 👋, I'm Rustam</h3>
 <h3 align="center">A passionate university student majoring in applied computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daytroy&label=Profile%20views&color=0e75b6&style=flat" alt="daytroy" /> </p>
