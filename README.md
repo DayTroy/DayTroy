@@ -1,8 +1,8 @@
 ## Hello there! 👋
 
-I'm Rustam, a **Middle Fullstack Developer** with **2 years of experience** in the insurance industry at **Ingosstrakh**.
+I'm Rustam, a **Middle Fullstack Developer** with **2 years of experience** in the insurance industry at <a href="https://www.ingos.ru/">**Ingosstrakh**</a> 💙.
 
-<a href="https://www.ingos.ru/" target="_blank">
+<a href="https://www.ingos.ru/">
   <img src="https://www.ingos.ru/assets/icons/icon-144x144.png" width="100" height="100" />
 </a>
 
