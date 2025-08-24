@@ -2,7 +2,9 @@
 
 I'm Rustam, a **Middle Fullstack Developer** with **2 years of experience** in the insurance industry at **Ingosstrakh**.
 
-![Ingosstrakh Logo](https://www.ingos.ru/assets/icons/icon-144x144.png)
+<a href="https://www.ingos.ru/" target="_blank">
+  <img src="https://www.ingos.ru/assets/icons/icon-144x144.png" width="100" height="100" />
+</a>
 
 ### About Me
 I specialize in building scalable web applications and enjoy tackling complex technical challenges. My passion lies at the intersection of development, DevOps, and emerging technologies. I am particularly interested in:
