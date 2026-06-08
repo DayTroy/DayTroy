@@ -46,8 +46,3 @@ I specialize in building scalable web applications and enjoy tackling complex te
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daytroy&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=daytroy&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daytroy&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
